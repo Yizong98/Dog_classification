@@ -11,19 +11,19 @@ Install
 
 Necessary Packages:
 
-[![SK_learn](http://scikit-learn.org/stable/install.html)] 
+[SK_learn](http://scikit-learn.org/stable/install.html)
 
-[![Numpy](https://www.scipy.org/scipylib/download.html)] 
+[Numpy](https://www.scipy.org/scipylib/download.html)
 
-[![Keras](https://keras.io/)] 
+[Keras](https://keras.io/)] 
 
-[![Tensorflow](https://www.tensorflow.org/install/)] 
+[Tensorflow](https://www.tensorflow.org/install/)
 
-[![Matplotlib](https://matplotlib.org/downloads.html)] 
+[Matplotlib](https://matplotlib.org/downloads.html) 
 
-[![OpenCV2](https://opencv.org/releases.html)] 
+[OpenCV2](https://opencv.org/releases.html) 
 
-[![Jupyter Notebook](http://jupyter.org/install)] 
+[Jupyter Notebook](http://jupyter.org/install)
 
 
 Usage Manual
