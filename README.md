@@ -15,7 +15,7 @@ Necessary Packages:
 
 [Numpy](https://www.scipy.org/scipylib/download.html)
 
-[Keras](https://keras.io/)] 
+[Keras](https://keras.io/) 
 
 [Tensorflow](https://www.tensorflow.org/install/)
 
