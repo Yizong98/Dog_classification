@@ -32,6 +32,7 @@ Usage Manual
 * Put your testing images to the directory test_images. 
 * Run all the cells in the file. 
 * Follow the structure of the very last cell and you are good to classify your own images!
+* Carefully observe the results and analyze why such classification could be a difficult task.
 
 License
 -------
